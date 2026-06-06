@@ -1,0 +1,11 @@
+question,ground_truth
+What is Python?,Python is a high-level interpreted programming language.
+What is Machine Learning?,Machine Learning enables systems to learn patterns from data.
+What is RAG?,RAG combines retrieval and generation.
+What is LangChain?,LangChain is a framework for building LLM applications.
+What is FAISS?,FAISS is a similarity search library for dense vectors.
+What is Groq?,Groq is a fast AI inference platform.
+What are embeddings?,Embeddings are vector representations of data.
+What is hallucination in AI?,Hallucination is when AI generates unsupported information.
+What is answer relevancy?,Answer relevancy measures how well an answer addresses a question.
+What is RAGAS?,RAGAS is a framework for evaluating RAG systems.
