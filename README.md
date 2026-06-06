@@ -240,20 +240,18 @@ The system:
 
 ## 📸 Screenshots
 
+## 📸 Project Screenshots
+
 ### Dashboard
 
-Add screenshot here:
+![Dashboard](images/dashboard_image.png)
 
-```text
-assets/dashboard.png
-```
+### Evaluation Metrics
 
-### Evaluation Results
+![Metrics](images/Screenshot_evaluation_results.png)
 
-Add screenshot here:
+### Project Structure
 
-```text
-assets/results.png
-```
+![Project Structure](images/Screenshot_folder_structure.png)
 
 ---
