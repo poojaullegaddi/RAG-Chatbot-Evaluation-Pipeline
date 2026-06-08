@@ -1,0 +1,67 @@
+question,ground_truth
+What is Python?,Python is a high-level interpreted programming language.
+Why is Python popular?,Python is popular because of its simplicity and versatility.
+Where is Python commonly used?,Python is used in web development data science automation machine learning and AI.
+What type of language is Python?,Python is an interpreted programming language.
+Is Python suitable for AI applications?,Yes Python is widely used in AI applications.
+What is Artificial Intelligence?,Artificial Intelligence is the simulation of human intelligence in machines.
+What can AI systems do?,AI systems can perform reasoning decision making and problem solving.
+What does AI stand for?,AI stands for Artificial Intelligence.
+Why is AI important?,AI helps automate tasks and improve decision making.
+Can AI understand language?,Yes AI can perform natural language processing tasks.
+What is Machine Learning?,Machine Learning is a subset of AI that learns patterns from data.
+What is supervised learning?,Supervised learning uses labeled data for training.
+What is unsupervised learning?,Unsupervised learning finds patterns in unlabeled data.
+What is reinforcement learning?,Reinforcement learning learns through rewards and penalties.
+Why is machine learning useful?,Machine learning enables prediction and pattern recognition.
+What are Large Language Models?,Large Language Models are AI models trained on massive text datasets.
+What can LLMs do?,LLMs can generate text answer questions and summarize content.
+Why are LLMs important?,LLMs enable advanced natural language understanding and generation.
+Are LLMs trained on text data?,Yes LLMs are trained on large amounts of text data.
+Can LLMs generate human-like responses?,Yes LLMs can generate human-like responses.
+What is RAG?,RAG combines retrieval and generation.
+What does RAG stand for?,RAG stands for Retrieval-Augmented Generation.
+Why is RAG useful?,RAG improves accuracy by retrieving external information.
+How does RAG reduce hallucinations?,RAG grounds answers using retrieved context.
+Does RAG rely only on model training data?,No RAG also uses external knowledge sources.
+What is LangChain?,LangChain is a framework for building LLM applications.
+What can LangChain do?,LangChain provides tools for prompts retrieval memory and workflows.
+Is LangChain open source?,Yes LangChain is open source.
+Why is LangChain used in RAG?,LangChain simplifies retrieval and orchestration.
+Does LangChain support document loading?,Yes LangChain supports document loading.
+What are vector databases?,Vector databases store embeddings for similarity search.
+Why are vector databases important?,They enable efficient retrieval of relevant information.
+What is stored in a vector database?,Embeddings are stored in vector databases.
+How do vector databases help RAG?,They retrieve context relevant to a query.
+Can vector databases perform similarity search?,Yes similarity search is a key feature.
+What are embeddings?,Embeddings are numerical vector representations of data.
+Why are embeddings useful?,Embeddings capture semantic meaning.
+Can text be converted into embeddings?,Yes text can be represented as embeddings.
+What do embeddings enable?,Embeddings enable similarity search and retrieval.
+Are embeddings used in vector databases?,Yes embeddings are stored in vector databases.
+What is FAISS?,FAISS is a similarity search library developed by Meta.
+What does FAISS do?,FAISS performs efficient similarity search on dense vectors.
+Why is FAISS popular in RAG systems?,FAISS enables fast vector retrieval.
+Who developed FAISS?,Meta developed FAISS.
+Can FAISS perform clustering?,Yes FAISS supports clustering and similarity search.
+What is Groq?,Groq is an AI inference platform.
+Why is Groq useful?,Groq provides high-speed LLM inference.
+Can developers access models through Groq APIs?,Yes developers can access models through Groq APIs.
+Is Groq used for AI applications?,Yes Groq is used to power AI applications.
+What is the main advantage of Groq?,Its main advantage is fast inference speed.
+What is hallucination in AI?,Hallucination occurs when AI generates unsupported information.
+Why are hallucinations problematic?,They can produce incorrect or fabricated answers.
+How can hallucinations be reduced?,Hallucinations can be reduced using retrieval and grounding.
+What does faithfulness measure?,Faithfulness measures whether an answer is supported by context.
+What does answer relevancy measure?,Answer relevancy measures how well an answer addresses a question.
+What does context precision measure?,Context precision measures retrieval quality.
+What is RAGAS?,RAGAS is a framework for evaluating RAG systems.
+What metrics does RAGAS provide?,RAGAS provides faithfulness relevancy precision recall and correctness metrics.
+Why is RAGAS useful?,RAGAS automates evaluation of RAG systems.
+What is Streamlit?,Streamlit is a framework for building interactive dashboards.
+Why is Streamlit popular?,Streamlit enables rapid dashboard development.
+Can Streamlit be used for AI applications?,Yes Streamlit is commonly used for AI dashboards.
+What is an evaluation pipeline?,An evaluation pipeline automatically measures system quality.
+Why are evaluation pipelines important?,They provide consistent performance measurement.
+What does an evaluation pipeline assess in RAG?,It assesses retrieval quality answer quality and hallucinations.
+Can evaluation pipelines be automated?,Yes evaluation pipelines can be fully automated.
