@@ -244,7 +244,8 @@ The system:
 
 ### Dashboard
 
-![Dashboard](images/dashboard_image.png)
+![Dashboard](images/dashboard_image1.png)
+![Dashboard](images/dashboard_image2.png)
 
 ### Evaluation Metrics
 
